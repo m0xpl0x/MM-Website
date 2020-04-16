@@ -1,5 +1,5 @@
 body {
-  background-color: #F1EEE6;
+  background-color: #7894A0;
   font-family: monospace;
 }
 .whole-page {
@@ -24,6 +24,34 @@ body {
    align-items: center;
    justify-content: center;
     hyphens: auto;
-    text-align: justify
+    text-align: justify;
+  }
+  h2 {
+        color: #F0BFCA;
+        padding: 5px;
+        border: 2px solid #ffffff;
+        box-shadow: 5px 10px;
+        font-weight:bolder;
 
+  }
+.hobby {
+  background-color: #AFB9D1;
+  padding: 20px;
+  border-radius: 15px;
+  margin: 5px;
+}
+li {
+  padding: 5px;
+  font-size: 20px;
+}
+
+
+  img.size {
+    border-radius: 15px;
+    width: 100%;
+  }
+
+  iframe {
+    border-radius: 15px;
+    width: 100%;
   }
