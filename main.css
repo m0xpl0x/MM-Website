@@ -40,6 +40,7 @@ body {
   padding: 20px;
   border-radius: 15px;
   margin: 5px;
+
 }
 li {
   padding: 5px;
@@ -52,8 +53,16 @@ li {
     width: 100%;
   }
   img.gif {
-    
     height:360px;
     frameBorder: 0;
     border-radius: 15px;
   }
+  img.seiten {
+    width: 100%;
+    frameBorder: 0;
+    border-radius: 15px;
+  }
+
+.langertext {
+  font-size: 20px;
+}
