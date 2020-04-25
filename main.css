@@ -39,7 +39,8 @@ body {
   background-color: #AFB9D1;
   padding: 20px;
   border-radius: 15px;
-  margin: 5px;
+  margin: 8px;
+  flex-grow: 4;
 
 }
 li {
@@ -66,3 +67,5 @@ li {
 .langertext {
   font-size: 20px;
 }
+
+a { color: inherit; }
